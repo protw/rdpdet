@@ -1,0 +1,14 @@
+created: 20181004071122837
+modified: 20181004072538660
+tags: 
+title: Примітки
+type: text/vnd.tiddlywiki
+
+Окрім стандартних засобів TW5 для створення статей на цьому ресурсі ''rpddet'' додатково використовувались:
+
+* плагін для створення формул у форматі ~LaTeX - ~KaTeX: mathematical typography $:/plugins/tiddlywiki/katex
+* макрос для зручного та уніфікованого розміщення зображень у тексті  - [[$:/boa/macros/Вставити картинку]] (опис в макросі за цим посиланням)
+* макрос для автоматизації перехресних посилань у тексті - $:/boa/macros/caption (опис у статтї [[Перехресні посилання в тексті|https://protw.github.io/tw5/#Перехресні посилання в тексті]])
+@@background-color:lightsalmon;font-weight:bold;padding-left:20px;padding-right:20px;padding-top:2px;padding-bottom:2px;
+> Цей макрос працює належним чином у версії //TW 5.1.14//. На жаль в крайній на дату 04.10.2018 версії //TW 5.1.17// макрос працює коректно лише у межах одного тідлера. Обговорення цього бага [[запущено на форум TW|https://groups.google.com/forum/#!msg/tiddlywiki/ptoEZPWV_C4/IVljwvadCAAJ]], але поки на сьогодні результатів не принесло.
+@@
